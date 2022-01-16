@@ -1,8 +1,8 @@
-### Olá! Eu sou Ranieri Fernandes 👋🏽
+## Olá! Me Chamo Ranieri Fernandes 👋🏽
 
-
-- 🔭 Hoje trabalho como...
+- 👨‍💻 Amante de Tecnologia
 - 🌱 Estudante de Desenvolvimento Web
+- 🎓 Graduado em Redes de Computadores
 
 <div align="center">
   <a href="https://github.com/ranierirfm">
