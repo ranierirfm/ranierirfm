@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/ranierirfm">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=ranierirfm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranierirfm&layout=compact&langs_count=7&theme=nord&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranierirfm&layout=compact&langs_count=5&theme=nord&count_private=true&include_all_commits=true"/>
 </div>
   
   ##
