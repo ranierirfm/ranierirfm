@@ -1,4 +1,4 @@
-## Olá! Me Chamo Ranieri Fernandes 👋🏽
+9## Olá! Me Chamo Ranieri Fernandes 👋🏽
 
 - 👨‍💻 Amante de Tecnologia
 - 🌱 Estudante de Segurança da Informação e Desenvolvimento Web
@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/ranierirfm">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=ranierirfm&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranierirfm&layout=compact&langs_count=6&theme=nord&count_private=true&include_all_commits=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranierirfm&layout=compact&langs_count=6&theme=nord&count_private=true&include_all_commits=true"/>
 </div>
   
   ##
