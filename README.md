@@ -1,4 +1,4 @@
-9## Olá! Me Chamo Ranieri Fernandes 👋🏽
+## Olá! Me Chamo Ranieri Fernandes 👋🏽
 
 - 👨‍💻 Amante de Tecnologia
 - 🌱 Estudante de Segurança da Informação e Desenvolvimento Web
