@@ -12,7 +12,7 @@
   
   ##
   
-<div style="display: inline_block"align="center">--Habilidades em Desenvolvimento--</div>
+<div style="display: inline_block"align="center">--Habilidades--</div>
   
 <div style="display: inline_block"align="center"><br>
  
@@ -26,7 +26,14 @@
   React
   <img align="center" alt="Rani-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">  
   Redux
-  <img align="center" alt="Rani-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
+ ##
+  
+<div style="display: inline_block"align="center">--Habilidades em Desenvolvimento--</div>
+
+<div style="display: inline_block"align="center"><br>
+
+<img align="center" alt="Rani-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   MySQL
   <img align="center" alt="Rani-Mdb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   MongoDB
